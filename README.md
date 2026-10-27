@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Agustina Bartorila 👋</h1>
 <p align="center">
-  <b>QA Analyst</b> · Estudiante de Ingeniería en Software · Córdoba, Argentina
+  <b>QA Engineer</b> · Estudiante de Ingeniería en Software · Córdoba, Argentina
 </p>
 
 <p align="center">
