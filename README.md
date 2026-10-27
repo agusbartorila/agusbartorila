@@ -13,7 +13,7 @@
 
 ### Sobre mí
 
-- 🔍 Trabajo como **QA Analyst en Bitlogic S.A.**, haciendo testing manual y automatizado.
+- 🔍 Trabajo como **QA Engineer en Bitlogic S.A.**, haciendo testing manual y automatizado.
 - 🎓 Estoy terminando **Ingeniería en Software** en la Universidad Siglo 21.
 - 🧪 Me interesa la calidad de software de punta a punta: desde el análisis de requerimientos hasta la automatización E2E.
 - 🗂️ Trabajo con metodología **Shape Up**.
